@@ -1,0 +1,3 @@
+# Just some data structures and algorithms the I find cool
+
+mostly in c++...
